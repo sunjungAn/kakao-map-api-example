@@ -1,11 +1,13 @@
 
 import React, { useEffect } from 'react';
 import KakaoMapScript from "./KakaoMapScript";
+import test from './test';
 
 export default function KakaoMap() {
 
     useEffect(() => {
-        KakaoMapScript();
+        //KakaoMapScript();
+        test();
     }, []);
 
     return (

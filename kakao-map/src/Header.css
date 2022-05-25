@@ -1,0 +1,25 @@
+*{
+    margin:0;
+}
+.header{
+    display:flex;
+    padding:1rem;
+    align-items: center;
+    justify-content: space-between;
+    color:white;
+    background-color: rgb(79, 150, 180);
+}
+
+.logo{
+    float:left;
+    font-size:1.5em;
+    font-weight: bold;
+}
+.header_nav{
+    float: right;
+    display: inline-flex;
+}
+
+.header_option{
+    margin-left: 1em;
+}

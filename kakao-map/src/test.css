@@ -1,8 +1,8 @@
 .area{
     background-color: rgb(216, 247, 251);
-    border-radius: 15px;
+    border-radius: 10px;
     color:rgb(38, 38, 134);
-    font-size: 20px;
+    font-size: 100%;
     font-weight: bold;
-    padding:1rem;
+    padding:0.5rem;
 }
